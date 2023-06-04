@@ -1,0 +1,3 @@
+msg = "dadada"
+
+print(msg)
