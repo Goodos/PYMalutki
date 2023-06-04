@@ -1,3 +1,3 @@
-msg = "dadada"
+msg = "net"
 
 print(msg)
