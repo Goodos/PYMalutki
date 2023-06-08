@@ -1,3 +1,1 @@
-msg = "net"
-
-print(msg)
+print("gay")
